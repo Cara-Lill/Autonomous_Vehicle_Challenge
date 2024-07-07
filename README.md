@@ -7,6 +7,9 @@ The goal of the AVC project was to build a robot, developing both hardware and s
 3. Navigating a maze
 4. Interating with different coloured/shaped objects in different ways
 
+| ![robot](https://github.com/Cara-Lill/Autonomous_Vehicle_Challenge/blob/main/photos/robot.jfif) | ![course](https://github.com/Cara-Lill/Autonomous_Vehicle_Challenge/blob/main/photos/course.jfif) |
+| -------------------------------- | ------------------------------ |
+
 ## Collaborators
 
 - Cara Lill
